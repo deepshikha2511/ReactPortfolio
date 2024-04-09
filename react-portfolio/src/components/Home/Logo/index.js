@@ -1,5 +1,5 @@
 import './index.scss'
 
 
-const Logo = () => ('Hekko from Logo')
+const Logo = () => ('')
 export default Logo;
