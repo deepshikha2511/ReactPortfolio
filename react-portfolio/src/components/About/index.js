@@ -25,8 +25,8 @@ const About = () => {
                     strArray={['A','b','o','u','t',' ','M','e']}
                     idx={15}/>
                 </h1>
-                <p>Hello I'm Deepshikha.Hello I'm Deepshikha.Hello I'm Deepshikha.Hello I'm Deepshikha.</p>
-                <p>This is a paragraph.This is a paragraphThis is a paragraphThis is a paragraphThis is a paragraphThis is a paragraph</p>
+                <p>Hi there! 👋 I'm Deepshikha, a passionate frontend developer with experience specializing in React.js development.</p>
+                <p>I have a strong interest in creating engaging and interactive user interfaces that not only look great but also provide a seamless user experience.</p>
             </div>
             <div className='stage-cube-cont'>
                 <div className='cubespinner'>
